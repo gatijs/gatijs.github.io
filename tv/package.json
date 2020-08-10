@@ -1,0 +1,28 @@
+{
+  "name": "AS-Live-TV",
+  "version": "1.0.0",
+  "description": "AS Live TV Streaming App for Fire TV [LITE]",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve -p 1111"
+  },
+  "keywords": [
+    "fire",
+    "tv",
+    "fire",
+    "os",
+    "live",
+    "tv",
+    "streaming"
+  ],
+  "author": "Shurvir Mori <astechnolabs@gmail.com> ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
